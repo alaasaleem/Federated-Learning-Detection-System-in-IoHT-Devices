@@ -22,7 +22,7 @@ Healthcare devices are increasingly connected to the internet, creating unpreced
 
 **Birzeit University - Department of Electrical and Computer Engineering**
 
-- **Jenin Basim Zaki Mansour** (1200540) - [GitHub](https://github.com/jenin144)
+- **Jenin Basim Zaki Mansour** (1200540) 
 - **Sondos Ashraf Nizam Farrah** (1200905)
 - **Alaa Ayman Mustafa Saleem** (1200001)
 
